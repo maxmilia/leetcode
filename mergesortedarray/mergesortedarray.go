@@ -1,4 +1,4 @@
-package main
+package mergesortedarray
 
 // 88 合并两个有序数组
 
