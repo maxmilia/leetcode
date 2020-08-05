@@ -1,4 +1,4 @@
-package main
+package reverseinteger
 
 // 32位数字，有符号的
 // 溢出为0
